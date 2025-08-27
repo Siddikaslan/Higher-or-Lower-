@@ -38,7 +38,7 @@ shape.py -->	Includes ASCII art for the game logo and comparison symbol
 
 ## ▶️ How to Run
 ```bash
-git clone https://github.com/Siddikaslan/Higher-or-Lower-.git
-cd Higher-or-Lower-
+git clone https://github.com/Siddikaslan/Higher-or-Lower.git
+cd Higher-or-Lower
 python main.py
 ```
